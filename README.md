@@ -1,1 +1,1 @@
-Writeups de [The hackers labs](https://thehackerslabs.com/)
+Writeups de distintas plataformas de CTF's
