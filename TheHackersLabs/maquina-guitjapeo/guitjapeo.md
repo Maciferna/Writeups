@@ -4,6 +4,8 @@ Autor: [Lenam](https://len4m.github.io/)
 
 Dificultad: Experto
 
+![guitjapeo](./img/guitjapeo.png)
+
 # RECONOCIMIENTO
 
 En mi caso la ip de la máquina es: 192.168.152.163
